@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 // ==========================================================
 // EXERCÍCIO 01 - CADASTRO DE PRODUTOS
-// DEIXE ESTE ATIVO PARA EXECUTAR O EXERCÍCIO 01
 // ==========================================================
 
 /*
